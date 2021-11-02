@@ -1,0 +1,19 @@
+.education{
+    margin: 1rem 0 5rem;
+  }
+  
+  .education {
+    margin: 1rem;
+    font-family: "Arial Narrow", Arial, sans-serif;
+  }
+  
+  .spec{
+    font-size: 110%;
+    font-weight: bold;
+    margin: 1rem 0;
+  }
+  
+  .university {
+    font-weight: 600;
+    margin: 1rem 0;
+  }
